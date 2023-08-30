@@ -7,4 +7,6 @@ new fx my_function: {
     print{"Hello, Cnnct!"}
 }
 call fx my_function
+cnnct.break
 ```
+cnnct.break is not part of the cnnct coding language (it soon will be) but right now it marks the end of your code
